@@ -51,7 +51,6 @@ Try the home page in different screen sizes.
 Deployment
 Using PHPStorm together with GitHub I could make commits strait from my IDE.
 Via Bootstrap Studio I could host what I made fairly easy.
-Together with Heroku.
 
 Credits
 Content

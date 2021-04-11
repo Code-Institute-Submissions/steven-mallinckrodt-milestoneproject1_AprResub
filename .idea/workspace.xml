@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe60587-7cdc-4308-a92c-2e36f384127c" name="Default Changelist" comment="Added the chavunal article page so visitors can read up on the world of chavunal. Edited the read me with information about the site.">
-      <change afterPath="$PROJECT_DIR$/static.json" afterDir="false" />
-    </list>
+    <list default="true" id="5fe60587-7cdc-4308-a92c-2e36f384127c" name="Default Changelist" comment="Trying to get Heroku to work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618160380217</updated>
       <workItem from="1618160381687" duration="2190000" />
-      <workItem from="1618169444429" duration="4884000" />
+      <workItem from="1618169444429" duration="5438000" />
     </task>
     <task id="LOCAL-00001" summary="started over. Made a new homepage. This homepage does have the footer locked and is responsive">
       <created>1618160506888</created>
@@ -125,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618173885562</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Trying to get Heroku to work">
+      <created>1618175053028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618175053028</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,13 +157,14 @@
     <MESSAGE value="Added the lore page from which users can choose what to read up about." />
     <MESSAGE value="Added page where users can see and read about the characters played by the group. The pictures are placeholders provided by Bootstrap Studio." />
     <MESSAGE value="Added the chavunal article page so visitors can read up on the world of chavunal. Edited the read me with information about the site." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the chavunal article page so visitors can read up on the world of chavunal. Edited the read me with information about the site." />
+    <MESSAGE value="Trying to get Heroku to work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to get Heroku to work" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2561" y="303" key="Vcs.Push.Dialog.v2" timestamp="1618173897534">
+    <state x="2561" y="303" key="Vcs.Push.Dialog.v2" timestamp="1618175054383">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="641" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618160715085" />
-    <state x="2561" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618173897534" />
+    <state x="2561" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618175054383" />
   </component>
 </project>
