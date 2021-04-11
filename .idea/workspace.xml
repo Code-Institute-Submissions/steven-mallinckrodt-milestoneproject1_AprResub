@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe60587-7cdc-4308-a92c-2e36f384127c" name="Default Changelist" comment="Assets were not commited" />
+    <list default="true" id="5fe60587-7cdc-4308-a92c-2e36f384127c" name="Default Changelist" comment="Added new css and more images for later use">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,7 +50,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Thuis\PhpstormProjects\milestoneproject1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Thuis\PhpstormProjects\milestoneproject1\assets" />
       <recent name="C:\Users\Thuis\PhpstormProjects\milestoneproject1" />
     </key>
   </component>
@@ -60,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618160380217</updated>
       <workItem from="1618160381687" duration="2190000" />
+      <workItem from="1618169444429" duration="289000" />
     </task>
     <task id="LOCAL-00001" summary="started over. Made a new homepage. This homepage does have the footer locked and is responsive">
       <created>1618160506888</created>
@@ -75,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618160712434</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added new css and more images for later use">
+      <created>1618169577625</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618169577625</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,17 +106,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="started over. Made a new homepage. This homepage does have the footer locked and is responsive" />
     <MESSAGE value="Assets were not commited" />
     <MESSAGE value="First commit with everything included and pushed" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit with everything included and pushed" />
+    <MESSAGE value="Added new css and more images for later use" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new css and more images for later use" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="641" y="303" key="Vcs.Push.Dialog.v2" timestamp="1618160715085">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2561" y="303" key="Vcs.Push.Dialog.v2" timestamp="1618169583357">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="641" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1618160715085" />
+    <state x="2561" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618169583357" />
   </component>
 </project>
